@@ -1,0 +1,12 @@
+Basic principles:
+1. Modularity, Composability
+2. Portability - since it was developed in C & C++
+3. Simplicity
+4. Efficiency 
+
+Open Source:
+development is collaborative
+source code avaiable
+
+abbrevations:
+GNU, BSD, GPL
